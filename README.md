@@ -6,7 +6,7 @@ To run sample project:
     
     b. byaldi - https://github.com/AnswerDotAI/byaldi
     
-    c. PIL - 
+    c. PIL
     
     d. openai (if using OpenAI multimodal models) - https://platform.openai.com/docs/api-reference/introduction
     
