@@ -1,4 +1,4 @@
-# Sample usage of ColPali Document Processing #
+# Sample usage of ColPali Document Processing
 To run sample project:
 1. Install necessary dependencies:
     a. pdf2image - https://pypi.org/project/pdf2image/
